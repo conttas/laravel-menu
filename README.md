@@ -2,7 +2,6 @@
 
 [![Version](https://img.shields.io/packagist/v/conttas/laravel-menu?label=release)](https://github.com/conttas/laravel-firewall/releases)
 ![Downloads](https://img.shields.io/packagist/dt/conttas/laravel-menu)
-![Tests](https://img.shields.io/github/workflow/status/conttas/laravel-menu/Tests?label=tests)
 [![License](https://img.shields.io/github/license/conttas/laravel-menu)](LICENSE.md)
 
 This package intends to create and manage menus and sidebars for your Laravel app. It ships with ready-to-go presenters and you can create your own ones.
