@@ -1,11 +1,9 @@
 # Menu and sidebar management package for Laravel
 
-[![Version](https://img.shields.io/packagist/v/akaunting/menu?label=release)](https://github.com/akaunting/firewall/releases)
-![Downloads](https://img.shields.io/packagist/dt/akaunting/menu)
-![Tests](https://img.shields.io/github/workflow/status/akaunting/menu/Tests?label=tests)
-[![StyleCI](https://github.styleci.io/repos/180763610/shield?style=flat&branch=master)](https://styleci.io/repos/180763610)
-[![Quality](https://img.shields.io/scrutinizer/quality/g/akaunting/menu?label=quality)](https://scrutinizer-ci.com/g/akaunting/menu)
-[![License](https://img.shields.io/github/license/akaunting/menu)](LICENSE.md)
+[![Version](https://img.shields.io/packagist/v/conttas/laravel-menu?label=release)](https://github.com/conttas/laravel-firewall/releases)
+![Downloads](https://img.shields.io/packagist/dt/conttas/laravel-menu)
+![Tests](https://img.shields.io/github/workflow/status/conttas/laravel-menu/Tests?label=tests)
+[![License](https://img.shields.io/github/license/conttas/laravel-menu)](LICENSE.md)
 
 This package intends to create and manage menus and sidebars for your Laravel app. It ships with ready-to-go presenters and you can create your own ones.
 
