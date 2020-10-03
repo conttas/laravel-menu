@@ -16,7 +16,7 @@ This package intends to create and manage menus and sidebars for your Laravel ap
 Run the following command:
 
 ```bash
-composer require akaunting/menu
+composer require conttas/laravel-menu
 ```
 
 ### 2. Register
